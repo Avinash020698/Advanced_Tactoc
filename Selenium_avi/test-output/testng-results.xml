@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="37090" started-at="2020-09-13T20:04:42 IST" finished-at="2020-09-13T20:05:19 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="37090" started-at="2020-09-13T20:04:42 IST" finished-at="2020-09-13T20:05:19 IST">
+      <class name="NDTV_TESTS.NDTV_HomePage_TestNG">
+        <test-method status="PASS" signature="NDTV_initial()[pri:0, instance:NDTV_TESTS.NDTV_HomePage_TestNG@1dfe2924]" name="NDTV_initial" is-config="true" duration-ms="11331" started-at="2020-09-13T20:04:42 IST" finished-at="2020-09-13T20:04:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NDTV_initial -->
+        <test-method status="PASS" signature="NDTV()[pri:0, instance:NDTV_TESTS.NDTV_HomePage_TestNG@1dfe2924]" name="NDTV" duration-ms="24908" started-at="2020-09-13T20:04:54 IST" finished-at="2020-09-13T20:05:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NDTV -->
+        <test-method status="PASS" signature="NDTV_conclusion()[pri:0, instance:NDTV_TESTS.NDTV_HomePage_TestNG@1dfe2924]" name="NDTV_conclusion" is-config="true" duration-ms="809" started-at="2020-09-13T20:05:19 IST" finished-at="2020-09-13T20:05:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NDTV_conclusion -->
+      </class> <!-- NDTV_TESTS.NDTV_HomePage_TestNG -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
